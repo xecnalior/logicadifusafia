@@ -21,6 +21,10 @@ public class Main {
 		return (i) / 100.0;
 	}
 
+    static double prueba(int i) {
+		return (i) / 100.0;
+	}
+
 	public static void main(String args[]) throws Exception {
 		// Create FCL system
 		String fcl = "FUNCTION_BLOCK tipper\n" + //
